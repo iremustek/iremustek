@@ -11,5 +11,5 @@ I'm Irem, a Data Scientist, Consultant, and MSc candidate in Applied Artificial 
 ## Connect
 Feel free to reach out for inquiries or collaboration opportunities. Let's connect and unlock the potential of data together!
 
--  Connect with me on [LinkedIn](http://linkedin.com/iremustek/)
+-  Connect with me on [LinkedIn](https://www.linkedin.com/in/iremustek/)
 
