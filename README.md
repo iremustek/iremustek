@@ -9,7 +9,7 @@ I'm Irem, a Data Scientist, Consultant, and MSc candidate in Applied Artificial 
 - 📚 Exploring the potential of data for positive impact.
 
 ## Connect
-Feel free to reach out for inquiries or collaboration opportunities. Let's connect and unlock the potential of data together!
+Feel free to reach out for inquiries or collaboration opportunities.
 
 -  Connect with me on [LinkedIn](https://www.linkedin.com/in/iremustek/)
 
