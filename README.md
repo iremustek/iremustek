@@ -1,16 +1,17 @@
-### Hi there 👋
+# Welcome! 👩‍💻
 
-<!--
-**iremustek/iremustek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Irem, a Data Scientist, Consultant, and MSc candidate in Applied Artificial Intelligence based in the UK.
 
-Here are some ideas to get you started:
+## About Me
+- 💡 Passionate about AI, ML, and Data Science.
+- 🌍 Bridging complex algorithms with real-world solutions.
+- 📚 Exploring the potential of data for positive impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Explore my repositories to find my projects in the field of AI, ML, and Data Science.
+
+## Connect
+Feel free to reach out for inquiries or collaboration opportunities. Let's connect and unlock the potential of data together!
+
+-  Connect with me on [LinkedIn](http://linkedin.com/iremustek/)
+
