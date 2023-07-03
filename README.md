@@ -4,7 +4,7 @@ I'm Irem, a Data Scientist/ Consultant, and MSc candidate in Applied Artificial 
 
 
 ## About Me
-- 💡 Machine Learning, Deep Learning and Data Science enthisuasist.
+- 💡 Passionate about AI, ML, Deep Learning and Data Science.
 - 🌍 Bridging complex algorithms with real-world solutions.
 - 📚 Exploring the potential of data for positive impact.
 
