@@ -1,10 +1,10 @@
 # Welcome! 👩‍💻
 
-I'm Irem, a Data Scientist, Consultant, and MSc candidate in Applied Artificial Intelligence based in the UK.
+I'm Irem, a Data Scientist/ Consultant, and MSc candidate in Applied Artificial Intelligence based in the UK.
 
 
 ## About Me
-- 💡 Passionate about AI, ML, and Data Science.
+- 💡 Machine Learning, Deep Learning and Data Science enthisuasist.
 - 🌍 Bridging complex algorithms with real-world solutions.
 - 📚 Exploring the potential of data for positive impact.
 
